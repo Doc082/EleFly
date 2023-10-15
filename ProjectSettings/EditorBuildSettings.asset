@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SeaSnakeJump/Scenes/menu.unity
+    guid: cf65af3b50d8dbc4d99182e2373915d0
+  - enabled: 1
+    path: Assets/SeaSnakeJump/Scenes/Main.unity
+    guid: 18742d4fda9ade74cbcd655d4f1266c8
+  m_configObjects: {}
